@@ -1,0 +1,17 @@
+{
+  "name": "cxyw5rt-b3l1mj5",
+  "hash": "Tal0VStE4hsvg0TgwHhF9S5Cve1XP9UrYZBOTp6l2JU=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/home/harsh/Projects/demo next/nextjs-blog/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::932299546871:role/cxyw5rt-7en4uhd"
+  },
+  "arn": "arn:aws:lambda:us-east-1:932299546871:function:cxyw5rt-b3l1mj5",
+  "region": "us-east-1"
+}
